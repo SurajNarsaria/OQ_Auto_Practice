@@ -1,7 +1,7 @@
 def modulus(a, b):
     return a % b
 
-a = 14
+a = 18
 b = 3
 
 result = modulus(a, b)
